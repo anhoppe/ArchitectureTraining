@@ -3,7 +3,9 @@ workspace "Name" "Description" {
     !identifiers hierarchical
 
     model {
-        u = person "Cyber Analyst"
+        cyberAnalyst = person "Cyber Analyst"
+        admin = person "Administrator"
+        user = person "User"
         ss = softwareSystem "CyberForst Nexus" {
             gateway = container "Gateway"
             wa = container "Web Application"
@@ -12,7 +14,7 @@ workspace "Name" "Description" {
             }
         }
 
-        u -> ss.wa "Uses"
+        cyberAnalyst -> ss.wa "Uses"
         ss.wa -> ss.db "Reads from and writes to"
     }
 

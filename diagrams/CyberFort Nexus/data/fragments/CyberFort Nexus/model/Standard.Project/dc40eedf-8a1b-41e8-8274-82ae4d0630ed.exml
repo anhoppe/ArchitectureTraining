@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CyberFort Nexus" version="4">
+  <OBJECT>
+    <ID name="CyberFort Nexus" mc="Standard.Project" uid="dc40eedf-8a1b-41e8-8274-82ae4d0630ed"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[CyberFort Nexus]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="cyberfort nexus" mc="Standard.Package" uid="8f6818b9-f131-4260-b26c-cc72b1fb6a56"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="CyberFort Nexus" mc="Infrastructure.DiagramSet" uid="2f7ce88b-3fb7-499b-9105-f1952ffc8d6c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
