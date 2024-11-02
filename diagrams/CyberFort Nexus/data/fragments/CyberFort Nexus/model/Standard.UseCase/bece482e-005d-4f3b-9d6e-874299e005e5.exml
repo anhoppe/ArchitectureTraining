@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="View virus threads" version="4">
   <OBJECT>
     <ID name="View virus threads" mc="Standard.UseCase" uid="bece482e-005d-4f3b-9d6e-874299e005e5"/>
-    <PID name="cyberfort nexus" mc="Standard.Package" uid="8f6818b9-f131-4260-b26c-cc72b1fb6a56"/>
+    <PID name="Use Cases" mc="Standard.Package" uid="2b5b2fe5-b21e-4a3a-afc0-8352cfb25509"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
       <ATT name="IsAbstract">false</ATT>

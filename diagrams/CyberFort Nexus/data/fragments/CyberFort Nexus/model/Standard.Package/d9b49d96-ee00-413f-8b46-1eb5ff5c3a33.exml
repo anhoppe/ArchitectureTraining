@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Development View" version="4">
+  <OBJECT>
+    <ID name="Development View" mc="Standard.Package" uid="d9b49d96-ee00-413f-8b46-1eb5ff5c3a33"/>
+    <PID name="cyberfort nexus" mc="Standard.Package" uid="8f6818b9-f131-4260-b26c-cc72b1fb6a56"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Development View]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Intranet" mc="Standard.Package" uid="0c1f1d6b-6843-464f-bc18-6c56693bbe83"/>
+        <COMPID name="Internet" mc="Standard.Package" uid="b271ed4f-ffe2-491e-99ab-c8f9c76cb036"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Development View (PackageContentStructureDiagramTemplate)" mc="Standard.ClassDiagram" uid="af1a2db4-2509-4945-a8c0-b0e83bd26d69"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

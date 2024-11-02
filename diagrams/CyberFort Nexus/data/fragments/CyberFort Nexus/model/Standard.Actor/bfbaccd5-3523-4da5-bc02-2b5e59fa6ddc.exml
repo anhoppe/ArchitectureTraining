@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Administrator" version="4">
   <OBJECT>
     <ID name="Administrator" mc="Standard.Actor" uid="bfbaccd5-3523-4da5-bc02-2b5e59fa6ddc"/>
-    <PID name="cyberfort nexus" mc="Standard.Package" uid="8f6818b9-f131-4260-b26c-cc72b1fb6a56"/>
+    <PID name="Use Cases" mc="Standard.Package" uid="2b5b2fe5-b21e-4a3a-afc0-8352cfb25509"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
       <ATT name="IsAbstract">false</ATT>

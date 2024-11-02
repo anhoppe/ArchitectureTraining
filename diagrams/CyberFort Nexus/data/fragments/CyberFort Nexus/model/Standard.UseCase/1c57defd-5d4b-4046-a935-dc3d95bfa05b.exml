@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Maintain CyberFort Nexus" version="4">
   <OBJECT>
     <ID name="Maintain CyberFort Nexus" mc="Standard.UseCase" uid="1c57defd-5d4b-4046-a935-dc3d95bfa05b"/>
-    <PID name="cyberfort nexus" mc="Standard.Package" uid="8f6818b9-f131-4260-b26c-cc72b1fb6a56"/>
+    <PID name="Use Cases" mc="Standard.Package" uid="2b5b2fe5-b21e-4a3a-afc0-8352cfb25509"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
       <ATT name="IsAbstract">false</ATT>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Internet" version="4">
+  <OBJECT>
+    <ID name="Internet" mc="Standard.Package" uid="b271ed4f-ffe2-491e-99ab-c8f9c76cb036"/>
+    <PID name="Development View" mc="Standard.Package" uid="d9b49d96-ee00-413f-8b46-1eb5ff5c3a33"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Internet]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Server" mc="Standard.Class" uid="fee8d5c2-e6b0-4b38-ac42-465726e5351e"/>
+        <COMPID name="Server" mc="Standard.Class" uid="71419d7e-3c21-4d6a-b386-6ea5b2872975"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

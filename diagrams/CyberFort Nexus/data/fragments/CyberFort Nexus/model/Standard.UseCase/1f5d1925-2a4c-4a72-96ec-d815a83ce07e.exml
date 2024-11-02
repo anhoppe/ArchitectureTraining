@@ -2,7 +2,7 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Delete blocked downloads" version="4">
   <OBJECT>
     <ID name="Delete blocked downloads" mc="Standard.UseCase" uid="1f5d1925-2a4c-4a72-96ec-d815a83ce07e"/>
-    <PID name="cyberfort nexus" mc="Standard.Package" uid="8f6818b9-f131-4260-b26c-cc72b1fb6a56"/>
+    <PID name="Use Cases" mc="Standard.Package" uid="2b5b2fe5-b21e-4a3a-afc0-8352cfb25509"/>
     <ATTRIBUTES>
       <ATT name="IsElementary">false</ATT>
       <ATT name="IsAbstract">false</ATT>

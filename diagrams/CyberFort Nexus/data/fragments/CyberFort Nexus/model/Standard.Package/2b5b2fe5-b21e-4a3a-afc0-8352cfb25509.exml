@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Use Cases" version="4">
+  <OBJECT>
+    <ID name="Use Cases" mc="Standard.Package" uid="2b5b2fe5-b21e-4a3a-afc0-8352cfb25509"/>
+    <PID name="cyberfort nexus" mc="Standard.Package" uid="8f6818b9-f131-4260-b26c-cc72b1fb6a56"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Use Cases]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Cyber Analyst" mc="Standard.Actor" uid="ccedc6f1-98cd-4d6c-879b-a5516b97788c"/>
+        <COMPID name="User" mc="Standard.Actor" uid="d6dcf3d7-2414-4cc8-9e51-b3d8c67f106a"/>
+        <COMPID name="Administrator" mc="Standard.Actor" uid="bfbaccd5-3523-4da5-bc02-2b5e59fa6ddc"/>
+        <COMPID name="HTTP Requests" mc="Standard.UseCase" uid="3e2d4730-d51e-4384-883c-b1e0e4b4b7ef"/>
+        <COMPID name="Download file" mc="Standard.UseCase" uid="e12f8e89-add6-45da-826a-b58458904ff4"/>
+        <COMPID name="Upload file" mc="Standard.UseCase" uid="ce7298bb-e09c-415b-81f5-1746f130ecf8"/>
+        <COMPID name="View thread alerts" mc="Standard.UseCase" uid="6a054a6c-c5f6-468e-931c-63c43a2ed25b"/>
+        <COMPID name="Review IP traffic" mc="Standard.UseCase" uid="c16efa8b-de94-4046-922b-7ebb54be1498"/>
+        <COMPID name="Maintain CyberFort Nexus" mc="Standard.UseCase" uid="1c57defd-5d4b-4046-a935-dc3d95bfa05b"/>
+        <COMPID name="Install" mc="Standard.UseCase" uid="6403b9e0-3d1f-476f-8802-e9ed57c04184"/>
+        <COMPID name="Update Version" mc="Standard.UseCase" uid="1827f6cf-cc75-4cd6-b002-16c57cff9615"/>
+        <COMPID name="Update " mc="Standard.UseCase" uid="f14c1bee-143c-4752-8a00-eceec3c64608"/>
+        <COMPID name="File analysis" mc="Standard.UseCase" uid="ae5e92c1-ce96-4146-92de-5b11747a1a89"/>
+        <COMPID name="Use internet connection" mc="Standard.UseCase" uid="0439394f-c1e5-416a-814d-9c4ea4af298c"/>
+        <COMPID name="Notify on virus detection" mc="Standard.UseCase" uid="5b11ac4b-f052-4887-8608-c2381dc6f869"/>
+        <COMPID name="Notify on blocked HTTP request" mc="Standard.UseCase" uid="bf753f31-d1d2-47ce-8e32-84c2ccfefc5a"/>
+        <COMPID name="View blocked downloads" mc="Standard.UseCase" uid="78f4595f-1079-4352-8aff-f6fb8bacd13c"/>
+        <COMPID name="Delete blocked downloads" mc="Standard.UseCase" uid="1f5d1925-2a4c-4a72-96ec-d815a83ce07e"/>
+        <COMPID name="View blocked HTTP requests" mc="Standard.UseCase" uid="97093183-4ec9-41ea-9867-a222ebc6405b"/>
+        <COMPID name="View virus threads" mc="Standard.UseCase" uid="bece482e-005d-4f3b-9d6e-874299e005e5"/>
+        <COMPID name="Block Clients from internet access" mc="Standard.UseCase" uid="cca30a37-4d16-4849-a3bf-877a70b66c40"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="cyberfort nexus Use Case diagram" mc="Standard.UseCaseDiagram" uid="f6ad2b8a-08a2-4cf9-b442-9cac070732ac"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

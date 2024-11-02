@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Intranet" version="4">
+  <OBJECT>
+    <ID name="Intranet" mc="Standard.Package" uid="0c1f1d6b-6843-464f-bc18-6c56693bbe83"/>
+    <PID name="Development View" mc="Standard.Package" uid="d9b49d96-ee00-413f-8b46-1eb5ff5c3a33"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Intranet]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Client" mc="Standard.Class" uid="f5609dc2-3f0e-4783-aa14-e234afc0fc57"/>
+        <COMPID name="Client" mc="Standard.Class" uid="bebdc8af-9f8e-4d99-8e74-489e1672fb4c"/>
+        <COMPID name="Gateway" mc="Standard.Class" uid="7c35d312-343d-4a48-9d5b-fa1134874924"/>
+        <COMPID name="CyberFort Nexus" mc="Standard.Class" uid="f4e3a027-b2ba-4673-9083-5cdb34a87a70"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
