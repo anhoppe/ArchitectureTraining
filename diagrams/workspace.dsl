@@ -6,6 +6,7 @@ workspace "Name" "Description" {
         cyberAnalyst = person "Cyber Analyst"
         admin = person "Administrator"
         user = person "User"
+        
         ss = softwareSystem "CyberForst Nexus" {
             gateway = container "Gateway"
             wa = container "Web Application"

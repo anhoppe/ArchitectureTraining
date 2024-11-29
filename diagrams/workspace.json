@@ -5,8 +5,7 @@
   "description" : "Description",
   "documentation" : { },
   "id" : 1,
-  "lastModifiedAgent" : "structurizr-ui",
-  "lastModifiedDate" : "2024-11-02T15:08:58Z",
+  "lastModifiedDate" : "2024-11-04T07:51:22Z",
   "model" : {
     "people" : [ {
       "id" : "1",
@@ -20,7 +19,7 @@
         "destinationId" : "6",
         "id" : "8",
         "properties" : {
-          "structurizr.dsl.identifier" : "bff4b37a-4072-4a26-87af-4143c90dbb62"
+          "structurizr.dsl.identifier" : "0d6de21c-fc77-46cc-af4a-17ce6333b39b"
         },
         "sourceId" : "1",
         "tags" : "Relationship"
@@ -70,7 +69,7 @@
           "destinationId" : "7",
           "id" : "10",
           "properties" : {
-            "structurizr.dsl.identifier" : "359f58d5-4262-4ad9-a94d-dc7f25bbd485"
+            "structurizr.dsl.identifier" : "72b0813c-9f48-4f68-9c53-15a6c49ee159"
           },
           "sourceId" : "6",
           "tags" : "Relationship"
@@ -103,7 +102,6 @@
     "configuration" : {
       "branding" : { },
       "lastSavedView" : "Diagram42",
-      "metadataSymbols" : "SquareBrackets",
       "styles" : {
         "elements" : [ {
           "color" : "#ffffff",
@@ -127,7 +125,7 @@
     },
     "containerViews" : [ {
       "automaticLayout" : {
-        "applied" : true,
+        "applied" : false,
         "edgeSeparation" : 0,
         "implementation" : "Graphviz",
         "nodeSeparation" : 300,
@@ -135,26 +133,22 @@
         "rankSeparation" : 300,
         "vertices" : false
       },
-      "dimensions" : {
-        "height" : 1411,
-        "width" : 2320
-      },
       "elements" : [ {
         "id" : "1",
-        "x" : 199,
-        "y" : 770
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "5",
-        "x" : 899,
-        "y" : 220
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "6",
-        "x" : 899,
-        "y" : 820
+        "x" : 0,
+        "y" : 0
       }, {
         "id" : "7",
-        "x" : 1649,
-        "y" : 820
+        "x" : 0,
+        "y" : 0
       } ],
       "externalSoftwareSystemBoundariesVisible" : false,
       "key" : "Diagram42",
